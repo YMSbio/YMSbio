@@ -45,6 +45,7 @@ I am a physician-scientist dedicated to bridging the gap between clinical medici
 * **Facebook Fanpage:** [Dr. Yu Min Syu](https://www.facebook.com/grow180/)
 * **Articles:** [Parenting Column](https://premium.parenting.com.tw/author/303)
 * **Academic Publication:** [ORCID Profile](https://orcid.org/0000-0001-7530-5499)
+* **Linktree:** [Dr. Yu Min Syu](linktr.ee/dr180)
 
 ### ⚡ Off-Duty
 When I'm not parsing genomic data or seeing patients in the clinic, you can usually find me running marathons, diving, playing the drum kit, or exploring the wonders of astronomy.
